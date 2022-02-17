@@ -1,0 +1,17 @@
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\bin\Debug\netcoreapp3.1\Bloco de Notas Simples.exe
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\bin\Debug\netcoreapp3.1\Bloco de Notas Simples.deps.json
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\bin\Debug\netcoreapp3.1\Bloco de Notas Simples.runtimeconfig.json
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\bin\Debug\netcoreapp3.1\Bloco de Notas Simples.runtimeconfig.dev.json
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\bin\Debug\netcoreapp3.1\Bloco de Notas Simples.dll
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\bin\Debug\netcoreapp3.1\Bloco de Notas Simples.pdb
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.csproj.AssemblyReference.cache
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco_de_Notas_Simples.Form1.resources
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.csproj.GenerateResource.cache
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.AssemblyInfoInputs.cache
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.AssemblyInfo.cs
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.csproj.CoreCompileInputs.cache
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.dll
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.pdb
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco de Notas Simples.genruntimeconfig.cache
+E:\Programação\Desenvolvendo em C-Sharp\Bloco de Notas Simples\Bloco de Notas Simples\obj\Debug\netcoreapp3.1\Bloco_de_Notas_Simples.Properties.Resources.resources
