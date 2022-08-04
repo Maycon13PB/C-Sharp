@@ -1,0 +1,7 @@
+E:\Programação\C-Sharp\CursosCSharp\Alura\AprendendoCSharp\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe.config
+E:\Programação\C-Sharp\CursosCSharp\Alura\AprendendoCSharp\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe
+E:\Programação\C-Sharp\CursosCSharp\Alura\AprendendoCSharp\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.pdb
+E:\Programação\C-Sharp\CursosCSharp\Alura\AprendendoCSharp\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.AssemblyReference.cache
+E:\Programação\C-Sharp\CursosCSharp\Alura\AprendendoCSharp\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.CoreCompileInputs.cache
+E:\Programação\C-Sharp\CursosCSharp\Alura\AprendendoCSharp\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.exe
+E:\Programação\C-Sharp\CursosCSharp\Alura\AprendendoCSharp\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.pdb
