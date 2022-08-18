@@ -1,0 +1,26 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+E:\Programação\C-Sharp\CursosCSharp\Alura\Windos Forms\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
