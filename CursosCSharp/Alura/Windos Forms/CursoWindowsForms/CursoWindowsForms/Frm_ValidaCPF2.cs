@@ -32,7 +32,7 @@ namespace CursoWindowsForms
             {
                 MessageBox.Show("Você dever digitar um CPF antes de validar ", "Mensagem de valídação", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            if (MessageBox.Show("Você deseja realmente validar o CPF", "Mensagem de Validação", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            if(MessageBox.Show("Você deseja realmente validar o CPF", "Mensagem de Validação", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 bool validaCPF = false;
                 validaCPF = Cls_Uteis.Valida(Msk_CPF.Text);
